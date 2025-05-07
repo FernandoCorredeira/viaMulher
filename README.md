@@ -4,7 +4,7 @@ Aplicativo para disseminação de informações referente a violência doméstic
 
 ## 👩🏽‍🤝‍👩🏽 Descrição 
 
-O projeto desenvolvido teve como objetivo disseminar a informação sobre violencia domestica, contendo tambem um [Formulario de Avaliação de Risco (FRIDA)](https://www.cnmp.mp.br/portal/images/Publicacoes/documentos/2019/FRIDA_2_WEB.pdf) pensado na escuta especializada da vitima.
+O projeto desenvolvido teve como objetivo disseminar a informação sobre violência doméstica, contendo também um [Formulário de Avaliação de Risco (FRIDA)](https://www.cnmp.mp.br/portal/images/Publicacoes/documentos/2019/FRIDA_2_WEB.pdf) pensado na escuta especializada da vitima.
 
 ## 📢 Público-Alvo
 O app desenvolvido foi pensado para o publico feminino e LGBTQ+ de idade entre 16 a 65 anos.
